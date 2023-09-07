@@ -4,3 +4,6 @@
 function meow() -> None:
     print("I love GitHub")
 ```
+- [x] Python
+- [x] Javascript
+- [ ] Swift
